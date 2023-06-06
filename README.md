@@ -18,7 +18,7 @@
   1. empty
   2. empty
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
 
 ---
 </details>
