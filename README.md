@@ -5,25 +5,22 @@
 
 ## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (残风)</a>
 
-<img align="right" alt="GIF" src="https://voup.cn" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="https://voup.cn" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://voup.cn" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
-
-<!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
-> You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
-
+    
 - 🔭 empty
 - 🌱 empty
 - 🤔 Only two things make me moved. 
   1. empty
   2. empty
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
 - 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
 
 ---
 </details>
   
-  ✨ 站主为大三生，东幻梦想工作室成员，小破站UP主，喜欢编程，动画和剪辑。该站存放本人的一些博客文章，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
+  ✨ 站主目前为江西财经大学大三生，东幻梦想工作室成员，小破站万粉UP主，喜欢编程，动画和剪辑。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
 
 
 <!--my introduction end -->
@@ -31,10 +28,10 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="Charmve's Stats" >
+  <a href="https://github.com/HIM198" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="HIM198's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
     -->
   </a>
 </p>
@@ -43,6 +40,7 @@
   <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
   </a>
+    <!--
   &emsp;
   <a href="https://blog.csdn.net/Charmve" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
@@ -51,6 +49,7 @@
   <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
+-->
   &emsp;
   <a href="https://space.bilibili.com/62079686" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
