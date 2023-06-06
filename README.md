@@ -54,7 +54,7 @@
   </a>
   &emsp;
   <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://icons8.com/icon/3876/log-cabin" width="28px"/>
+    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
   </a>
     <!--
   &emsp;
@@ -72,20 +72,20 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/HIM198">
+    <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/years/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/HIM198">
+    <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/HIM198?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.strrl.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/HIM198">
+    <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.strrl.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/HIM198">
+    <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
