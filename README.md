@@ -103,7 +103,7 @@
 <!-- START_SECTION:brain -->
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
-* <a href='=http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
+* <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-20
 <!-- END_SECTION:brain -->
