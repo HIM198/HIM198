@@ -100,5 +100,36 @@
 <div align="center"> <img height="250px" src="https://github-readme-stats.vercel.app/api?username=HIM198&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HIM198" /> </div>
+<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
+### 🧠 Second Brain
 
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
+<!-- START_SECTION:brain -->
+* <a href='https://brain.sunguoqi.com/life/coder/anthony-fu.html' target='_blank'>Anthony Fu</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/life/coder/sxzz.html' target='_blank'>三咲智子</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/web/vue/hello/hello-vue.html' target='_blank'>Hello Vue</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/web/vue/hello/list-app.html' target='_blank'>清单小应用</a> - 2023-05-21
+* <a href='https://brain.sunguoqi.com/web/vue/hello/quick-start.html' target='_blank'>快速上手</a> - 2023-05-20
+<!-- END_SECTION:brain -->
+
+</td></tr>
+
+<tr><td>
+
+### 🤾‍♂️ Funny Soul
+
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
+<!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+<!-- END_SECTION:douban -->
+
+</td></tr>
+
+<tr><td>
