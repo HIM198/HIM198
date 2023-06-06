@@ -96,12 +96,6 @@
 <a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
 
 
-<div align="center"> <img height="500px" src="https://metrics.lecoq.io/HIM198?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img height="250px" src="https://github-readme-stats.vercel.app/api?username=HIM198&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HIM198" /> </div>
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-
 ### 🧠 Second Brain
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
