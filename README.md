@@ -117,9 +117,9 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>考研词汇闪过</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>考研词汇闪过</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+
 
 <!-- END_SECTION:douban -->
 
