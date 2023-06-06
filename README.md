@@ -3,7 +3,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
 
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">ZHANG WEI (Charmve)</a>
+## Hi, 👋  I'm <a href="http://welcome.voup.cn">Voup (残风)</a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
@@ -23,7 +23,7 @@
 ---
 </details>
   
-  ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
+  ✨ 站主为大三生，东幻梦想工作室成员，小破站UP主，喜欢编程，动画和剪辑。该站存放本人的一些博客文章，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
 
 
 <!--my introduction end -->
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="Charmve's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
